@@ -1,1 +1,1 @@
-# Imagens da Avaliação-02
+# Captura de Tela, Avaliação-02
