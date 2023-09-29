@@ -1,11 +1,18 @@
-# Disciplina: Banco de Dados
+<h2>
+  Disciplina: Banco de Dados
+</h2>
 
-### Aluno: Wladison Maciel
-### Curso: Técnico Integrado em Informática.
-### Turno: Integral
-### Turma: P4
-### Etapa: N1
-### Professor: Ricardo Duarte Taveira
+**Aluno: Wladison Maciel**
+
+**Curso: Técnico Integrado em Informática**
+
+**Turno: Integral**
+
+**Turma: P4**
+
+**Etapa: N1**
+
+**Professor: Ricardo Duarte Taveira**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
